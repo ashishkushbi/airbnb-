@@ -1,5 +1,5 @@
-# airbnb-
-overview and host analysis
+# airbnb - overview and host analysis
+
 Unlocking Airbnb Insights: A Data-Driven Journey into Host and Pricing Trends
 
 The world of Airbnb is full of surprises, and diving deep into the data has been an exciting adventure! Through detailed analysis, I uncovered key insights about hosts, pricing trends, and property types—let’s explore them step by step! 🚀
